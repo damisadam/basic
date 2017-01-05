@@ -1,6 +1,12 @@
 Yii 2 Basic Application Template
 ================================
 
+
+
+composer require damisadam/basic
+
+
+
 Yii 2 Basic Application Template is a skeleton Yii 2 application best for
 rapidly creating small projects.
 
